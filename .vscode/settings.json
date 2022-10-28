@@ -14,5 +14,6 @@
     "liveSassCompile.settings.generateMap": false,
     "liveSassCompile.settings.includeItems": [
         "/css/scss/*.scss"
-    ]
+    ],
+    "editor.tabSize": 2
 }
